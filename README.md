@@ -197,4 +197,8 @@ Có thể thêm các đối số như scope hay url.
 ```
 >>	với form_tag và form_for thì không mặc định chế đội **remote** và ngược lại
 
-
+10% research, Q&A
+40% implement
+30% self-test, self-review
+10% review
+10% lỗi phát sinh
